@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with U-Net architecture
 - 📫 How to reach me: dm me on twitter or drop an email
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am N00b in here
+- ⚡ Fun fact: I am a N00b in here
 
  
 
