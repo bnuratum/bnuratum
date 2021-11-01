@@ -1,11 +1,11 @@
 # Hi there 👋
-## Here is Busra!
+## This is Busra!
 
 
 - 🔭 I’m currently working on my master's thesis. The aim of my master's thesis is to detect the lumbar disc herniation on MRI data with the help of Deep Learning techniques.
-- 🌱 I’m currently learning how to do Semantic Segmentation of Medical Image data.
+- 🌱 I’m currently learning how to do Semantic Segmentation on Medical Image data.
 - 🤔 I’m looking for help with U-Net architecture
-- 📫 How to reach me: 
+- 📫 How to reach me: dm me on twitter or drop an email
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am N00b in here
 
