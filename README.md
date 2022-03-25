@@ -1,5 +1,9 @@
-# Hi there 👋
-## This is Busra!
+# Hi, This is Busra! 👋
+---
+
+I have recently completed my master's degree in Mechatronics.
+
+
 
 
 - 🔭 I’m currently working on my master's thesis. The aim of my master's thesis is to detect the lumbar disc herniation on MRI data with the help of Deep Learning techniques.
