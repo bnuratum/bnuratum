@@ -1,6 +1,7 @@
 # Hi, This is Busra! 👋
 ___
-I have recently completed my master's degree in Mechatronics.
+I have recently completed my master's degree in Mechatronics and I am particularly interested in Artificial Intelligence and new technologies in Robotics and IoT.
+As my master's thesis, I worked on Deep Learning techniques for Medical Image Analysis. The topic was to optimize Artificial Neural Network Architectures for the detection of herniated lumbar disc on MRI data. Now I am looking forward to building a career in Data Science and Machine learning fields. I am mostly here to improve my skills as a Data Scientist by helping others or getting help.
 
 
 
